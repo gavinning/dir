@@ -1,0 +1,28 @@
+{
+  "name": "linco.dir",
+  "version": "0.0.1",
+  "description": "for nodejs. 用于遍历文件夹目录及子目录",
+  "main": "src/dir.js",
+  "scripts": {
+    "test": "node src/dir.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/dir.git"
+  },
+  "keywords": [
+    "linco.dir",
+    "linco",
+    "nodejs",
+    "dir",
+    "readdir",
+    "each dir"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/dir/issues"
+  },
+  "homepage": "http://www.ilinco.com",
+  "readmeFilename": "Readme.md"
+}
