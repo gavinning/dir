@@ -1,10 +1,10 @@
 {
   "name": "linco.dir",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "for nodejs. 用于遍历文件夹目录及子目录",
-  "main": "src/dir.js",
+  "main": "./src/dir.js",
   "scripts": {
-    "test": "node src/dir.js"
+    "test": "node ./src/dir.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
     "readdir",
     "each dir"
   ],
+  "dependencies": {
+    "linco.lab": "*"
+  },
   "author": "gavinning",
   "license": "MIT",
   "bugs": {
