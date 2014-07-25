@@ -1,6 +1,6 @@
 {
   "name": "linco.dir",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "for nodejs. 用于遍历文件夹目录及子目录, from linco.lab",
   "main": "index.js",
   "scripts": {
