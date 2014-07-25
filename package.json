@@ -2,9 +2,9 @@
   "name": "linco.dir",
   "version": "0.0.2",
   "description": "for nodejs. 用于遍历文件夹目录及子目录, from linco.lab",
-  "main": "src/dir.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node src/dir.js"
+    "test": "node ./index.js"
   },
   "repository": {
     "type": "git",
